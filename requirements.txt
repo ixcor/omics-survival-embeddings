@@ -1,0 +1,31 @@
+# Core
+numpy>=1.23
+pandas>=1.5
+scipy>=1.9
+
+# Machine Learning
+scikit-learn>=1.2
+xgboost>=1.7
+lightgbm>=3.3
+catboost>=1.2
+
+# Deep Learning
+torch>=2.0
+torchvision>=0.15
+pytorch-tabnet>=4.1
+
+# Survival analysis
+lifelines>=0.27
+
+# Visualization
+matplotlib>=3.7
+seaborn>=0.12
+umap-learn>=0.5
+
+# Notebooks
+jupyter>=1.0
+notebook>=7.0
+ipykernel>=6.25
+
+# Optional utilities
+tqdm>=4.65

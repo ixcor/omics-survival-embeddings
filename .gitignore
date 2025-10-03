@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+*.so
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints
+
+# Virtual environments
+venv/
+.env/
+.venv/
+env/
+*.egg-info/
+
+# Data & artifacts
+data/
+artifacts/
+results/
+logs/
+*.csv
+*.tsv
+*.parquet
+*.npy
+*.npz
+*.h5
+
+# System files
+.DS_Store
+Thumbs.db
