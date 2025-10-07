@@ -1,4 +1,9 @@
 # Omics Survival Embeddings
+[![Python](https://img.shields.io/badge/Python-3.10+-blue.svg)](https://www.python.org/)
+[![Jupyter](https://img.shields.io/badge/Jupyter-Notebook-orange.svg)]()
+[![PyTorch](https://img.shields.io/badge/PyTorch-2.x-red.svg)](https://pytorch.org/)
+[![TabNet](https://img.shields.io/badge/TabNet-PyTorch-lightgrey.svg)](https://dreamquark.ai/tabnet/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 Benchmarking different embedding methods for survival prediction on omics data.
 
